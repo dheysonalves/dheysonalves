@@ -43,6 +43,7 @@ Some tech that I have been working on.
 
 ### Books I'm currently reading:
 - Clean Code - Robert Cecil Martin
-- You don't know JS - Kyle Simpson 
+- You don't know JS - Kyle Simpson
+- A FRAMEWORK FOR THE MEASUREMENT OF SOFTWARE QUALITY - Joseph P. Cavano 
 
 ⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
