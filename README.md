@@ -30,6 +30,7 @@ Some tech that I have been working on.
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAFB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-222222?style=flat&logo=Gatsby&logoColor=663399)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
