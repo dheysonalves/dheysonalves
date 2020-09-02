@@ -21,7 +21,6 @@ This is mostly the languages that have been using in the last few months.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178c6)
 ![PHP](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=3178c6)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 
 ### Some of the technologies that I have worked with
 
@@ -29,9 +28,11 @@ Some tech that I have been working on.
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=61DAFB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-222222?style=flat&logo=Gatsby&logoColor=663399)
+![GraphQL](https://img.shields.io/badge/-GraphQL-222222?style=flat&logo=GraphQL&logoColor=663399)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 
