@@ -49,4 +49,4 @@ Some tech that I have been working on.
 
 ⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
 
-ps. Most projects are private, sorry :s.
+<small>ps. Most projects are private, sorry :s.</small>
