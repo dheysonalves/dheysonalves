@@ -48,3 +48,5 @@ Some tech that I have been working on.
 - A FRAMEWORK FOR THE MEASUREMENT OF SOFTWARE QUALITY - Joseph P. Cavano 
 
 ⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
+
+ps. Most projects are private, sorry :s.
