@@ -1,9 +1,5 @@
 ![Me](https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png)
 
-> “There are two parts to learning craftsmanship: knowledge and work. You must gain the knowledge of principles, patterns, practices, and heuristics that a craftsman knows, and you must also grind that knowledge into your fingers, eyes, and gut by working hard and
-practicing.”
-― Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
-
 - 🎓 Currently Computer science student on UNIFAVIP WYDEN
 - 🪐 Software developer, Roleplay Tabletop player at Roll20, PC gaming player, comic book reader, loves to create and design fantasy stories for my rpg adventures.
 - :mailbox: You can reach me with the links below
