@@ -8,6 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
 
+![Dheyson's github stats](https://github-readme-stats.vercel.app/api?username=Dheyson) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheyson&layout=compact)
+
+
 ### Languages I use
 
 This is mostly the languages that have been using in the last few months.
