@@ -40,6 +40,7 @@ Some tech that I have been working on.
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=E10098)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=E10098)
 ![Storybook](https://img.shields.io/badge/-Storybook-222222?style=flat&logo=Storybook&logoColor=E10098)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 ### Books I'm currently reading:
 - Clean Code - Robert Cecil Martin -> [Notion notes](https://www.notion.so/bbbe58d00a20461787625a52cabce360?v=5137e361469c401b87b302c008200e2d)
