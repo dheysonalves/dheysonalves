@@ -23,7 +23,7 @@ This is mostly the languages that have worked in the last few months.
 
 ### Some of the technologies that I have worked with
 
-Some tech that I have been working on.
+Some tech that I already worked on.
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
@@ -41,6 +41,7 @@ Some tech that I have been working on.
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker&logoColor=E10098)
 ![Storybook](https://img.shields.io/badge/-Storybook-222222?style=flat&logo=Storybook&logoColor=E10098)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=Android&logoColor=green)
 
 ### Books I'm currently reading:
 - Clean Code - Robert Cecil Martin -> [Notion notes](https://www.notion.so/bbbe58d00a20461787625a52cabce360?v=5137e361469c401b87b302c008200e2d)
