@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheyson10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
+[![Spotify](https://img.shields.io/badge/-SPOTIFY-black?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/2m8wzgbdsgr9q56g4gafmaovt?si=P6Kga-E0QgCgJbvqVp0Z_w)
 
 ![Dheyson's github stats](https://github-readme-stats.vercel.app/api?username=Dheyson) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheyson&layout=compact)
 
