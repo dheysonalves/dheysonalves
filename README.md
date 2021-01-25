@@ -13,20 +13,18 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://epicreact.dev">
+          <a href="https://dheyson-personal-website.herokuapp.com/">
             <img
-              alt="Learn React from Start to Finish"
+              alt="Meu site pessoal e blog sobre desenvolvimento."
               src="https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png"
             />
           </a>
         </td>
         <td>
-          <a href="https://testingjavascript.com">
             <img
-              alt="Learn the smart, efficient way to test any JavaScript application."
+              alt="Meus stats, com os commits atuais, issues criadas e pr feitas no ano."
               src="https://github-readme-stats.vercel.app/api?username=Dheyson"
             />
-          </a>
         </td>
       </tr>
     </tbody>
