@@ -1,10 +1,41 @@
-![Me](https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png)
-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheyson10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
 
-![Dheyson's github stats](https://github-readme-stats.vercel.app/api?username=Dheyson) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheyson&layout=compact)
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong>Cover</strong>
+        </th>
+        <th>
+          <strong>Stats</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://epicreact.dev">
+            <img
+              alt="Learn React from Start to Finish"
+              src="https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png"
+            />
+          </a>
+        </td>
+        <td>
+          <a href="https://testingjavascript.com">
+            <img
+              alt="Learn the smart, efficient way to test any JavaScript application."
+              src="https://github-readme-stats.vercel.app/api?username=Dheyson"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 The languages and techs that have worked in the last few months.
 
