@@ -1,9 +1,5 @@
 ![Me](https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png)
 
-- 🎓 Currently Computer science student on UNIFAVIP WYDEN
-- 🪐 Software developer, 900 hours Roleplayer Tabletop at Roll20, PC gaming player, comic book reader, loves to create and design fantasy stories for my rpg adventures.
-- :mailbox: You can reach me with the links below
-
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheyson10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
