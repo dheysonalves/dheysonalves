@@ -3,10 +3,10 @@
     <thead>
       <tr>
         <th>
-          <strong>Cover</strong>
+          <strong>Cover 🚀</strong>
         </th>
         <th>
-          <strong>Stats</strong>
+          <strong>Stats 📝</strong>
         </th>
       </tr>
     </thead>
