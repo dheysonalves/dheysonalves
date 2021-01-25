@@ -23,7 +23,7 @@
         <td>
             <img
               alt="Meus stats, com os commits atuais, issues criadas e pr feitas no ano."
-              src="https://github-readme-stats.vercel.app/api?username=Dheyson"
+              src="https://github-readme-stats.vercel.app/api?username=dheysonalves"
             />
         </td>
       </tr>
