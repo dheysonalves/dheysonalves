@@ -48,13 +48,13 @@ The languages and techs that have worked in the last few months.
 ![Storybook](https://img.shields.io/badge/-Storybook-222222?style=flat&logo=Storybook&logoColor=E10098)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg)
+
 ### Books I'm currently reading:
 - Clean Code - Robert Cecil Martin -> [Notion notes](https://www.notion.so/bbbe58d00a20461787625a52cabce360?v=5137e361469c401b87b302c008200e2d)
 - You don't know JS - Kyle Simpson -> [Notion Notes](https://www.notion.so/You-don-t-Know-JS-YDKJS-b41cf4cc3fd049658bfad623a091ce9a)
 - A FRAMEWORK FOR THE MEASUREMENT OF SOFTWARE QUALITY - Joseph P. Cavano 
-
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg)
 
 ⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
 
