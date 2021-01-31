@@ -58,4 +58,4 @@ The languages and techs that have worked in the last few months.
 <small>ps. Most projects are private, sorry :s.</small>
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg)
