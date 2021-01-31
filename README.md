@@ -56,3 +56,6 @@ The languages and techs that have worked in the last few months.
 ⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
 
 <small>ps. Most projects are private, sorry :s.</small>
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/dheysonalvesr/dheysonalves/blob/master/github-metrics.svg)
