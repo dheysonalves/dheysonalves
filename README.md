@@ -53,9 +53,8 @@ The languages and techs that have worked in the last few months.
 - You don't know JS - Kyle Simpson -> [Notion Notes](https://www.notion.so/You-don-t-Know-JS-YDKJS-b41cf4cc3fd049658bfad623a091ce9a)
 - A FRAMEWORK FOR THE MEASUREMENT OF SOFTWARE QUALITY - Joseph P. Cavano 
 
-⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
-
-<small>ps. Most projects are private, sorry :s.</small>
-
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg)
+
+⭐️ From [Dheyson Alves](https://github.com/Dheyson/)
+
