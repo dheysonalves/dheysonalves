@@ -47,6 +47,7 @@ The languages and techs that have worked in the last few months.
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=Laravel&logoColor=E10098)
 ![Storybook](https://img.shields.io/badge/-Storybook-222222?style=flat&logo=Storybook&logoColor=E10098)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/-NextJS-222222?style=flat&logo=Nextjs&logoColor=61DAFB)
 
 <!-- If you're using "master" as default branch -->
 ![Metrics](https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg)
