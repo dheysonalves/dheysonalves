@@ -36,7 +36,7 @@
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
 
 
-The languages and techs that have worked in the last few months.
+The languages and techs that have worked in the last few months. Most projects are private.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
