@@ -22,7 +22,7 @@
         </td>
         <td>
             <img
-              alt="Meus stats, com os commits atuais,issues criadas e pr feitas no ano."
+              alt="Meus stats,com os commits atuais,issues criadas e pr feitas no ano."
               src="https://github-readme-stats.vercel.app/api?username=dheysonalves"
             />
         </td>
@@ -34,7 +34,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheyson10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
-
 
 The languages and techs that have worked in the last few months. Most projects are private.
 
