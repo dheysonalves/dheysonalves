@@ -62,23 +62,4 @@
       </tr>
     </tbody>
   </table>
-  <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th>
-          <strong>Stats 📝</strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-         <td>
-            <img
-              alt="Meus stats,com os commits atuais,issues criadas e pr feitas no ano."
-              src="https://github-readme-stats.vercel.app/api?username=dheysonalves"
-            />
-        </td>
-      </tr>
-    </tbody>
-  </table>
 </div>
