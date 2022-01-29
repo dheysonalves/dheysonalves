@@ -3,23 +3,12 @@
     <thead>
       <tr>
         <th>
-          <strong>Cover 🚀</strong>
-        </th>
-        <th>
           <strong>Stats 📝</strong>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>
-          <a href="https://dheyson-personal-website.herokuapp.com/">
-            <img
-              alt="Meu site pessoal e blog sobre desenvolvimento."
-              src="https://i.ibb.co/tLgn2j3/Facebook-Cover-1.png"
-            />
-          </a>
-        </td>
         <td>
             <img
               alt="Meus stats,com os commits atuais,issues criadas e pr feitas no ano."
@@ -28,7 +17,7 @@
         </td>
          <td colspan="2" align="center">
           <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.activity.svg" alt=""></img>
-          <img width="900" height="1" alt="">
+          <img width="500" height="1" alt="">
         </td>
       </tr>
     </tbody>
