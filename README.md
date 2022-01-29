@@ -27,7 +27,7 @@
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.habits.charts.svg" alt=""></img>
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.habits.facts.svg" alt=""></img>
           <img width="auto" height="1" alt="">
         </td>
          <td colspan="2" align="center">
