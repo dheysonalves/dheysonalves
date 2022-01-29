@@ -26,6 +26,10 @@
               src="https://github-readme-stats.vercel.app/api?username=dheysonalves"
             />
         </td>
+         <td colspan="2" align="center">
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.activity.svg" alt=""></img>
+          <img width="900" height="1" alt="">
+        </td>
       </tr>
     </tbody>
   </table>
