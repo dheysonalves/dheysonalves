@@ -7,10 +7,10 @@
     <thead>
       <tr>
         <th colspan="2">
-          <strong>Activity 📝</strong>
+          <strong>Status 📝</strong>
         </th>
         <th colspan="2">
-          <strong>Recently Starred 📝</strong>
+          <strong>Activity 📝</strong>
         </th>
       </tr>
     </thead>
@@ -20,19 +20,28 @@
           <img src="https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg" alt=""></img>
           <img width="auto" height="1" alt="">
         </td>
-         <td colspan="2" align="center">
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.topics.icons.svg" alt=""></img>
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.stars.svg" alt=""></img>
+        <td colspan="2" align="center">
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.activity.svg" alt=""></img>
           <img width="auto" height="1" alt="">
         </td>
       </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.habits.charts.svg" alt=""></img>
+          <img width="auto" height="1" alt="">
+        </td>
+         <td colspan="2" align="center">
+           <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.followup.indepth.svg" alt=""></img>
+          <img width="auto" height="1" alt="">
+        </td>
+      </tr/>
     </tbody>
   </table>
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
         <th colspan="2">
-          <strong>Activity 📝</strong>
+          <strong>Recently Starred 📝</strong>
         </th>
         <th colspan="2">
           <strong>Discussions 📝</strong>
@@ -41,9 +50,10 @@
     </thead>
     <tbody>
       <tr>
-         <td colspan="2" align="center">
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.activity.svg" alt=""></img>
-          <img width="500" height="1" alt="">
+       <td colspan="2" align="center">
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.topics.icons.svg" alt=""></img>
+          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.stars.svg" alt=""></img>
+          <img width="auto" height="1" alt="">
         </td>
          <td colspan="2" align="center">
           <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.discussions.svg" alt=""></img>
