@@ -1,4 +1,4 @@
-## Hello, I’m Dheyson Alves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hello, I’m Dheyson Alves 🤚
 
 > Front-End Developer at Zappts
 
