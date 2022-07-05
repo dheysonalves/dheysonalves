@@ -10,7 +10,7 @@ A Software Engineer with 3+ years of experience in the industry. Helping compani
 
 Additionally, I have build with college students a Developer Community called CofferHub. Focusing on teaching and learning together. I get excited about opportunities where I'm able to work with products that impact many people. Also, working with a team with a growing and learning mindset.
 
-I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/">Cetrus</a>, <a href="https://www.softmakers.com.br/">Softmakers</a>.
+I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/" target="_blank" rel="noopener noreferrer">Cetrus</a>, <a href="https://www.softmakers.com.br/" target="_blank" rel="noopener noreferrer">Softmakers</a>, <a href="https://www.zappts.com.br/" target="_blank" rel="noopener noreferrer">Zappts</a>, <a href="https://www.portoseguro.com.br/" target="_blank" rel="noopener noreferrer">Porto Seguro</a>.
 
 I love to connect with new people, send me a DM on LinkedIn.
 
