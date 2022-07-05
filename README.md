@@ -1,6 +1,6 @@
 ## Hello, I’m Dheyson Alves 🤚
 
-> Front-End Developer at Zappts
+> Front-End Developer.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheyson10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
@@ -10,7 +10,7 @@ A Software Engineer with 3+ years of experience in the industry. Helping compani
 
 Additionally, I have build with college students a Developer Community called CofferHub. Focusing on teaching and learning together. I get excited about opportunities where I'm able to work with products that impact many people. Also, working with a team with a growing and learning mindset.
 
-I currently work at <a href="https://zappts.com">Zappts</a>, revolutionize the way people relate to money with <a href="https://www.portoseguro.com.br/">Porto Seguro</a>. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/">Cetrus</a>, <a href="https://www.softmakers.com.br/">Softmakers</a>.
+I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/">Cetrus</a>, <a href="https://www.softmakers.com.br/">Softmakers</a>.
 
 I love to connect with new people, send me a DM on LinkedIn.
 
