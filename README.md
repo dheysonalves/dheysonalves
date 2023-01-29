@@ -43,31 +43,3 @@ I love to connect with new people, send me a DM on LinkedIn.
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <thead>
-      <tr>
-        <th colspan="2">
-          <strong>Status 📝</strong>
-        </th>
-        <th colspan="2">
-          <strong>Recently Starred 📝</strong>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-         <td colspan="2" align="center">
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/github-metrics.svg" alt=""></img>
-          <img width="auto" height="1" alt="">
-        </td>
-  <td colspan="2" align="center">
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.topics.icons.svg" alt=""></img>
-          <img src="https://github.com/dheysonalves/dheysonalves/blob/master/metrics.plugin.stars.svg" alt=""></img>
-          <img width="auto" height="1" alt="">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
