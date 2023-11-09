@@ -6,9 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheysonalvess/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DheysonAlves2)
 
-A Software Engineer with 3 years of experience in the industry. Helping companies from different backgrounds reach their potential with software applications. I helped a company called Cetrus to modernize their business with Telemedicine. Improving the way of teaching young doctors to become professionals with technology.
-
-Additionally, I have build with college students a Developer Community called CofferHub. Focusing on teaching and learning together. I get excited about opportunities where I'm able to work with products that impact many people. Also, working with a team with a growing and learning mindset.
+A Software Engineer helping companies from different backgrounds reach their potential with software applications.I get excited about opportunities where I'm able to work with products that impact many people. Also, working with a team with a growing and learning mindset.
 
 I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/" target="_blank" rel="noopener noreferrer">Cetrus</a>, <a href="https://www.softmakers.com.br/" target="_blank" rel="noopener noreferrer">Softmakers</a>, <a href="https://www.zappts.com.br/" target="_blank" rel="noopener noreferrer">Zappts</a>, <a href="https://www.portoseguro.com.br/" target="_blank" rel="noopener noreferrer">Porto Seguro</a>.
 
