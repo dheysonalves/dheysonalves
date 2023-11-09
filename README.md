@@ -10,8 +10,6 @@ A Software Engineer helping companies from different backgrounds reach their pot
 
 I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.cetrus.com.br/" target="_blank" rel="noopener noreferrer">Cetrus</a>, <a href="https://www.softmakers.com.br/" target="_blank" rel="noopener noreferrer">Softmakers</a>, <a href="https://www.zappts.com.br/" target="_blank" rel="noopener noreferrer">Zappts</a>, <a href="https://www.portoseguro.com.br/" target="_blank" rel="noopener noreferrer">Porto Seguro</a>.
 
-I love to connect with new people, send me a DM on LinkedIn.
-
 **Languages and Tools 🚀**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
