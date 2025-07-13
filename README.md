@@ -8,14 +8,9 @@ I'm a Software Engineer with a foundation in Computer Science and a passion for 
 
 Over the past few years, I've developed and maintained Web and Mobile applications for leading companies like **Cetrus**, **Softmakers**, **Zappts**, **Porto Seguro**, and **Raro Labs**, directly impacting thousands of users through thoughtful engineering.
 
-### 🧠 My Core Pillars
-- **Computer Science Fundamentals**: Algorithms, data structures, computational theory
-- **Software Engineering Principles**: Clean Architecture, SOLID, Design Patterns
-- **Full Stack Development**: From intuitive UIs to resilient APIs
-
 ### 🔧 Tech Stack
-- **Languages**: JavaScript, TypeScript, Java, Python  
-- **Frameworks**: React, Vue, Angular, Next.js, Nest.js, Node.js, Express  
+- **Languages**: JavaScript, TypeScript, Java, Python, SQL
+- **Frameworks**: React, React Native, Vue, Angular, Next.js, Nest.js, Node.js, Express  
 - **Practices**: TDD, Agile methodologies, Docker, Git
 
 ### ✍️ Outside the Code
